@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/dt1j922qjrl2x08h?svg=true)](https://ci.appveyor.com/project/juliaivi/ahj-3-2)
 # Домашнее задание к занятию "3.Обработка событий"
-
+https://juliaivi.github.io/ahj_3.2/
 ### TOP Tasks* (задача со звёздочкой)
 
 Важно: эта задача не является обязательной. Её (не)выполнение не влияет на получение зачёта по ДЗ.
